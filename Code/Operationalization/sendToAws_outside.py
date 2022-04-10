@@ -5,7 +5,7 @@ from csv import reader
 from time import sleep
 import json
 
-url_outside = '/app/Data/Processed/out.csv'
+url_outside = '/app/Data/Processed/outside.csv'
 
 ENDPOINT = "ar95nzm5vzl5q-ats.iot.us-east-1.amazonaws.com"
 CLIENT_ID = "Sensor_outside"
