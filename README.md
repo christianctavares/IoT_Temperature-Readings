@@ -8,3 +8,7 @@
     - Baixar arquivos da aws
     - Rodar DeviceShadow
     - Rodar códigos de predição
+
+# Diagrama
+
+![alt text](https://github.com/christianctavares/IoT_Temperature-Readings/blob/main/Docs/images/inside_previsao.png?raw=true)
